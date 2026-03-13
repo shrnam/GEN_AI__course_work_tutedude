@@ -1,2 +1,18 @@
 # GEN_AI__course_work_tutedude
-This repo contains assignment solutions from the "GenAI" course from Tutedude.
+Assignment solutions from the "GenAI" course from Tutedude.
+
+
+This repository contains my coursework and hands-on assignments from a Generative AI program.
+Topics covered:
+
+- Python foundations
+  - Data structures
+  - Functions and Loops
+  - File handling
+  - Modules and Packages
+  - Exception Handling
+- NLP fundamentals
+- Transformers
+- LLM fine-tuning
+- RAG pipelines
+- Deployment experiments
