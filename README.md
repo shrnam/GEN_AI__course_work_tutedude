@@ -5,7 +5,7 @@ Assignment solutions from the "GenAI" course from Tutedude.
 This repository contains my coursework and hands-on assignments from a Generative AI program.
 Topics covered:
 
-- Python foundations
+- Python Fundamentals - (Assignment 1)
   - Data structures
   - Functions and Loops
   - File handling
